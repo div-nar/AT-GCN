@@ -1,4 +1,4 @@
-# ST-GCNT
+# AT-GCN
 
 The objective of our project is to improve the accuracy and reliability of forecasting fatal incidents within conflict zones through deep learning models, in particular, we intend to propose a novel Transformer-based architecture leveraging multi-head-based self-attention to capture temporal dependencies. The rationale behind selecting this topic stems from the pressing need to enhance early warning systems for humanitarian and security purposes. By accurately predicting such events, we can potentially save lives by providing timely and effective responses from international organizations. 
 
