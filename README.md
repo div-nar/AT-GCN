@@ -1,4 +1,4 @@
-# AT-GCN
+# Attention Transformer Graph Convolutional Network
 
 The objective of our project is to improve the accuracy and reliability of forecasting fatal incidents within conflict zones through deep learning models, in particular, we intend to propose a novel Transformer-based architecture leveraging multi-head-based self-attention to capture temporal dependencies. The rationale behind selecting this topic stems from the pressing need to enhance early warning systems for humanitarian and security purposes. By accurately predicting such events, we can potentially save lives by providing timely and effective responses from international organizations. 
 
@@ -6,6 +6,4 @@ We intend to utilize data from the 2023/24 ViEWS prediction challenge, to foreca
 
 Our proposed architecture chooses to incorporate the recommendations provided by existing literature while utilizing more modern deep learning innovations to provide a robust architecture that will be able to process data, capturing both local and global dependencies for both the spatial and temporal dimensions. We choose to build on Patrick Brandt's work utilizing a spatiotemporal graph convolution network, utilizing a GCN as proposed in the paper leveraging its granularity and minimal feature engineering qualities to capture spatial dependencies. 
 
-In addition to this, we propose modifications to the temporal model using the sequential nature of time-series data as a justification to incorporate transformers allowing us to capture short and long-term dependencies a first in this field. 
-
-
+In addition to this, we propose modifications to the temporal model using the sequential nature of time-series data as a justification to incorporate transformers allowing us to capture short and long-term dependencies a first in this field.
